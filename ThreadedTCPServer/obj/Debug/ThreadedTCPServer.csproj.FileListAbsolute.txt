@@ -1,0 +1,6 @@
+C:\TFS_Local\ThreadedTCPServer\ThreadedTCPServer\bin\Debug\ThreadedTCPServer.exe.config
+C:\TFS_Local\ThreadedTCPServer\ThreadedTCPServer\bin\Debug\ThreadedTCPServer.exe
+C:\TFS_Local\ThreadedTCPServer\ThreadedTCPServer\bin\Debug\ThreadedTCPServer.pdb
+C:\TFS_Local\ThreadedTCPServer\ThreadedTCPServer\obj\Debug\ThreadedTCPServer.csprojResolveAssemblyReference.cache
+C:\TFS_Local\ThreadedTCPServer\ThreadedTCPServer\obj\Debug\ThreadedTCPServer.exe
+C:\TFS_Local\ThreadedTCPServer\ThreadedTCPServer\obj\Debug\ThreadedTCPServer.pdb
